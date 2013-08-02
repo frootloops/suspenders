@@ -4,7 +4,7 @@ Suspenders is the base Rails application used at [thoughtbot](http://thoughtbot.
 
   ![Suspenders boy](http://media.tumblr.com/1TEAMALpseh5xzf0Jt6bcwSMo1_400.png)
 
-Installation
+Installation 
 ------------
 
 First install the suspenders gem:
